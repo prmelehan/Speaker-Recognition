@@ -1,0 +1,4 @@
+/voices/training/*
+/voices/validation/*
+temp.wav
+.DS_Store
